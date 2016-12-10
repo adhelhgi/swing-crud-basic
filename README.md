@@ -7,6 +7,7 @@ https://www.codepolitan.com/tutorial/aplikasi-crud-java-sederhana-menggunakan-da
 cek nama database dari class koneksi.
 
 table
+
 CREATE TABLE `karyawan` (
   `id_karyawan` int(11) NOT NULL,
   `nama_karyawan` varchar(50) DEFAULT NULL,
